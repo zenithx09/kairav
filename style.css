@@ -105,6 +105,7 @@ nav .fa{
         right: -200px;
         text-align: left;
         z-index: 2;
+        transform: 1s;
     }
     nav .fa{
         display: block;
@@ -118,4 +119,16 @@ nav .fa{
 
     }
 
+}
+
+/*-----footer-----*/
+.footer{
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+}
+.footer h4{
+    margin-bottom: 25px;
+    margin-top: 20px;
+    font-weight: 600;
 }
